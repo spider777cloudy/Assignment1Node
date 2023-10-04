@@ -23,4 +23,4 @@ app.listen(port, () => {
 
 
 
-app.set('Views', path.join(__dirname, 'Views'));
+app.set('views', path.join(__dirname, 'Views'));
